@@ -8,4 +8,4 @@ Footstep, jump, and landing sounds made in animations via sound notify
 Animations I get from Mixamo, not mine, so that is the reason why they are laggy.
 Textures and static mesh assets got from the quixel bridge
 All widget logic is made in C++, the visual is made in BP, and elements are connected via meta=(BindWidget).
-For tracking scores, use Game State and delegates.
+For tracking scores, used Game State and delegates.
